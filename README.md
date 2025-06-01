@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Segurança d
 ### [Gerenciamento de Estoque - Trabalho da Faculdade](https://github.com/luanafragadev/gerenciamento-estoque)
 Sistema para gerenciar o estoque de uma empresa de comércio eletrônico, incluindo cadastro, atualização e rastreamento de produtos. Desenvolvido com Portugol WebStudio e foco em lógica de programação.
 
-### [Scripts de Segurança](link_do_repositorio)
+### [Scripts de Segurança](https://github.com/luanafragadev/scripts-seguranca)
 Pequenos scripts em Python para automação de tarefas e análises básicas de vulnerabilidades.
 
 ## 📫 Como me encontrar
