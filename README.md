@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, eu sou a Luana 👋
 
-<!--
-**luanafragadev/luanafragadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Segurança da Informação. Apaixonada por tecnologia, estou construindo minha carreira na área de proteção de dados, automação e análise de vulnerabilidades.
 
-Here are some ideas to get you started:
+## 🚀 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Gerenciamento de Estoque - Trabalho da Faculdade](link_do_repositorio)
+Sistema para gerenciar o estoque de uma empresa de comércio eletrônico, incluindo cadastro, atualização e rastreamento de produtos. Desenvolvido com Portugol WebStudio e foco em lógica de programação.
+
+### [Scripts de Segurança](link_do_repositorio)
+Pequenos scripts em Python para automação de tarefas e análises básicas de vulnerabilidades.
+
+## 📫 Como me encontrar
+
+- LinkedIn: [https://www.linkedin.com/in/luanafraga94](https://www.linkedin.com/in/luanafraga94)  
+- Email: luanafraga94@gmail.com
+
+## 🛠 Tecnologias e ferramentas
+
+Python | Portugol WebStudio | Segurança da Informação | Git | Linux | Automação
+
+---
+
+**Pronouns:** she/her
+
+---
