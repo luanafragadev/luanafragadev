@@ -37,11 +37,11 @@ iniciante na área de Cibersegurança**.
 
 ## 📂 Projetos do Portfólio
 
-🔹 [Laboratório de Redes e Segurança](./lab-redes-seguranca)  
-🔹 [Estudos sobre Ataques Cibernéticos](./estudos-ataques)  
-🔹 [Scripts de Segurança em Python](./scripts-seguranca-python)  
-🔹 [Análise de Vulnerabilidades](./analise-vulnerabilidades)  
-🔹 [Hardening Básico em Linux](./hardening-linux)  
+🔹 [Laboratório de Redes e Segurança](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/lab-redes-seguranca)
+🔹 [Estudos sobre Ataques Cibernéticos](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/estudos-ataques)
+🔹 [Scripts de Segurança em Python](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/scripts-seguranca-python)
+🔹 [Análise de Vulnerabilidades](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/analise-vulnerabilidades)
+🔹 [Hardening Básico em Linux](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/hardening-linux)
 
 > Os projetos estão em constante desenvolvimento e evolução conforme
 meu aprendizado na área de Cibersegurança.
