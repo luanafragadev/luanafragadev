@@ -1,20 +1,24 @@
-👩‍💻 Luana Stefanie de Araujo Fraga                                                                                                                                                                                                                                        
-🎯 Foco em Cibersegurança / Segurança da Informação                                                                                                                                                                                                                     
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+# 🔐 Portfólio de Cibersegurança — Luana Fraga
+
+👩‍💻 **Luana Stefanie de Araujo Fraga**  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎯 Foco em **Cibersegurança / Segurança da Informação**
 
 ---
 
-🧠 Sobre mim
-Sou estudante de TI com foco em Segurança da Informação, interessada em
-proteção de sistemas, análise de vulnerabilidades e boas práticas de segurança.
-Busco uma oportunidade como estagiária ou júnior em Cibersegurança.
+## 🧠 Sobre mim
+Sou estudante da área de Tecnologia da Informação com foco em
+Segurança da Informação. Tenho interesse em aprender como proteger
+sistemas, redes e dados contra ameaças digitais, sempre respeitando
+princípios éticos e legais.
 
-Tenho interesse em aprender tanto segurança defensiva quanto ofensiva,
-sempre respeitando princípios éticos e legais.
+Atualmente estou construindo meu conhecimento por meio de estudos
+teóricos e práticos, buscando uma oportunidade como **estagiária ou
+iniciante na área de Cibersegurança**.
 
 ---
 
-🔐 Áreas de Interesse
+## 🔐 Áreas de Interesse
 - Segurança da Informação  
 - Cibersegurança  
 - Redes de Computadores  
@@ -24,37 +28,39 @@ sempre respeitando princípios éticos e legais.
 
 ---
 
-🛠️ Tecnologias e Ferramentas
-- Linux (básico/intermediário)
-- Python
-- Git e GitHub
-- Redes (TCP/IP, HTTP, HTTPS, SSH)
-- Nmap
-- Conceitos de Firewall e Hardening
+## 🛠️ Tecnologias e Ferramentas (nível iniciante)
+- Linux  
+- Python  
+- Git e GitHub  
+- Conceitos de redes (TCP/IP, HTTP, HTTPS, SSH)  
+- Noções de firewall e hardening  
 
 ---
 
-📂 Projetos
+## 📂 Projetos do Portfólio
 
 🔹 [Laboratório de Redes e Segurança](./lab-redes-seguranca)  
-🔹 [Análise de Vulnerabilidades](./analise-vulnerabilidades)  
-🔹 [Scripts de Segurança em Python](./scripts-seguranca-python)  
 🔹 [Estudos sobre Ataques Cibernéticos](./estudos-ataques)  
+🔹 [Scripts de Segurança em Python](./scripts-seguranca-python)  
+🔹 [Análise de Vulnerabilidades](./analise-vulnerabilidades)  
 🔹 [Hardening Básico em Linux](./hardening-linux)  
 
+> Os projetos estão em constante desenvolvimento e evolução conforme
+meu aprendizado na área de Cibersegurança.
+
 ---
 
-🧪 Labs e Prática
+## 🧪 Estudos e Prática
 - TryHackMe  
 - Hack The Box Academy  
-- OverTheWire  
-
-📁 Documentação disponível no repositório `labs-ciberseguranca`
+- Estudos teóricos e laboratórios controlados  
 
 ---
 
-🤝 Contato
+## 🤝 Contato
 - GitHub: https://github.com/luanafragadev  
-- LinkedIn: https://linkedin.com/in/luanafraga94  
+- LinkedIn: (adicione quando quiser)  
 
-📩 Aberta a oportunidades de aprendizado e crescimento na área de Segurança da Informação.
+📌 Este portfólio tem fins educacionais e demonstra minha evolução
+na área de Segurança da Informação.
+
