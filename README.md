@@ -1,5 +1,3 @@
-# 🔐 Portfólio de Cibersegurança — Luana Fraga
-
 👩‍💻 **Luana Stefanie de Araujo Fraga**  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🎯 Foco em **Cibersegurança / Segurança da Informação**
