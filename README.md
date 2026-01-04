@@ -57,7 +57,7 @@ meu aprendizado na área de Cibersegurança.
 
 ## 🤝 Contato
 - GitHub: https://github.com/luanafragadev  
-- LinkedIn: (adicione quando quiser)  
+- LinkedIn: https://www.linkedin.com/in/luanafraga94/  
 
 📌 Este portfólio tem fins educacionais e demonstra minha evolução
 na área de Segurança da Informação.
