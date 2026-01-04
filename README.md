@@ -35,6 +35,7 @@ sempre respeitando princípios éticos e legais.
 ---
 
 📂 Projetos
+
 🔹 [Laboratório de Redes e Segurança](./lab-redes-seguranca)  
 🔹 [Análise de Vulnerabilidades](./analise-vulnerabilidades)  
 🔹 [Scripts de Segurança em Python](./scripts-seguranca-python)  
