@@ -1,14 +1,11 @@
-# Olá! Eu sou a Luana Fraga 🚀
+👩‍💻 Luana Fraga  
+🎯 Foco em Cibersegurança / Segurança da Informação  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Segurança da Informação. Apaixonada por tecnologia, estou construindo minha carreira na área de proteção de dados, automação e análise de vulnerabilidades.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em
+Segurança da Informação, buscando oportunidade como estagiária/júnior.
 
-## 📫 Como me encontrar
-
-- LinkedIn: [https://www.linkedin.com/in/luanafraga94](https://www.linkedin.com/in/luanafraga94)  
-- Email: luanafraga94@gmail.com
-
----
-
-**Pronouns:** she/her
-
----
+🔐 Áreas de interesse:
+- Segurança ofensiva
+- Análise de vulnerabilidades
+- Redes e protocolos
+- Linux
