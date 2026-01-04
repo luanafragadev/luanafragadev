@@ -8,11 +8,11 @@
 Sou estudante da área de Tecnologia da Informação com foco em
 Segurança da Informação. Tenho interesse em aprender como proteger
 sistemas, redes e dados contra ameaças digitais, sempre respeitando
-princípios éticos e legais.
+princípios éticos, legais e boas práticas da área.
 
-Atualmente estou construindo meu conhecimento por meio de estudos
+Atualmente estou desenvolvendo meus conhecimentos por meio de estudos
 teóricos e práticos, buscando uma oportunidade como **estagiária ou
-iniciante na área de Cibersegurança**.
+iniciante na área de Cibersegurança**, com foco em aprendizado contínuo.
 
 ---
 
@@ -36,15 +36,14 @@ iniciante na área de Cibersegurança**.
 ---
 
 ## 📂 Projetos do Portfólio
+🔹 [Laboratório de Redes e Segurança](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/lab-redes-seguranca)  
+🔹 [Estudos sobre Ataques Cibernéticos](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/estudos-ataques)  
+🔹 [Scripts de Segurança em Python](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/scripts-seguranca-python)  
+🔹 [Análise de Vulnerabilidades](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/analise-vulnerabilidades)  
+🔹 [Hardening Básico em Linux](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/hardening-linux)  
 
-🔹 [Laboratório de Redes e Segurança](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/lab-redes-seguranca)
-🔹 [Estudos sobre Ataques Cibernéticos](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/estudos-ataques)
-🔹 [Scripts de Segurança em Python](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/scripts-seguranca-python)
-🔹 [Análise de Vulnerabilidades](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/analise-vulnerabilidades)
-🔹 [Hardening Básico em Linux](https://github.com/luanafragadev/portfolio-ciberseguranca/tree/main/hardening-linux)
-
-> Os projetos estão em constante desenvolvimento e evolução conforme
-meu aprendizado na área de Cibersegurança.
+> Os projetos estão em constante desenvolvimento e representam minha
+evolução gradual na área de Cibersegurança.
 
 ---
 
@@ -59,6 +58,5 @@ meu aprendizado na área de Cibersegurança.
 - GitHub: https://github.com/luanafragadev  
 - LinkedIn: https://www.linkedin.com/in/luanafraga94/  
 
-📌 Este portfólio tem fins educacionais e demonstra minha evolução
+📌 Este perfil tem fins educacionais e demonstra minha evolução contínua
 na área de Segurança da Informação.
-
