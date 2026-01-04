@@ -1,5 +1,7 @@
 👩‍💻 Luana Stefanie de Araujo Fraga
-🎯 Foco em Cibersegurança / Segurança da Informação 
+
+🎯 Foco em Cibersegurança / Segurança da Informação
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 
 ---
